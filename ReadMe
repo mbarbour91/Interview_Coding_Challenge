@@ -1,6 +1,7 @@
 This file tells a user how to run this project
 
 1. Make sure Ruby and Ruby Devkit are installed (go to rubyinstaller.org to download latest version)
+2. Go to https://github.com/mbarbour91/Interview_Coding_Challenge and 'click clone or download' button or run the command git checkout https://github.com/mbarbour91/Interview_Coding_Challenge.git
 2. Open up project in RubyMine
 3. Install bundler by going to 'Tools' menu and then 'Bundler' and 'Install Bundler'
 4. Perform a bundle install to install all required gems
