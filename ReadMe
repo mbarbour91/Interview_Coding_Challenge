@@ -1,0 +1,10 @@
+This file tells a user how to run this project
+
+1. Make sure Ruby and Ruby Devkit are installed (go to rubyinstaller.org to download latest version)
+2. Open up project in RubyMine
+3. Install bundler by going to 'Tools' menu and then 'Bundler' and 'Install Bundler'
+4. Perform a bundle install to install all required gems
+5. Web Browser drivers are included in the project.  Make sure they are in your computer's PATH
+6. env.rb contains a constant that tells the framework what browser to use.  Adjust it to your liking
+7. To run all features, right click on the features folder and select 'Run all features in features folder'
+8. To run individual scenarios or feature files, double click on the file and right click on a scenario to run an individual scenario or at the top of the file to run the whole file
